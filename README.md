@@ -8,7 +8,7 @@ This is the incrementing counter project from the course '50 projects in 50 days
 
 Users should be able to:
 
-- See the counters icrementing
+- See the counters incrementing
 
 ### Screenshots
 
